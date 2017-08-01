@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * 银行卡相关校验
  * @author chen
  * @version V1.0
  * @date 2017/8/1
